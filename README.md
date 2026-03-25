@@ -8,11 +8,17 @@ This project aims to bridge the gap between traditional farming practices and mo
 🚀 Key Features
 
 🌱 Crop Recommendation based on land, soil, and season
+
 🧪 Fertilizer Guidance with exact quantity
+
 📊 Yield Estimation and Profit Analysis
+
 ♻️ Waste to Wealth (convert crop waste into useful products)
+
 🌍 Multi-language Support with Voice Assistance
+
 🤖 AI-based Farmer Assistant for guidance
 
 🎯 Objective
+
 To empower farmers with a digital platform that simplifies agricultural decision-making and improves productivity, sustainability, and profitability.
